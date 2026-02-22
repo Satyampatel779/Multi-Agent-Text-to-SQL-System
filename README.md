@@ -26,8 +26,3 @@ I engineered a complex relational database (`ecommerce.db`) specifically for thi
 * **Agentic AI Orchestration:** Implementing stateful graphs and conditional routing in LangGraph.
 * **Data Architecture:** Designing relational schemas and handling dynamic metadata retrieval for LLM context.
 * **Prompt Engineering:** Developing specialized system instructions for distinct agent personas to minimize hallucination.
-
-## 🛠️ How to Run
-1. Open the `.ipynb` file in Google Colab.
-2. Obtain a free API key from [Groq Console](https://console.groq.com/).
-3. Run all cells to launch the **Gradio Web Interface**.
