@@ -1,0 +1,22 @@
+# Environment Variables (CRITICAL: Hides your API key!)
+.env
+
+# SQLite Databases (Prevents uploading your local database)
+*.db
+ecommerce.db
+*.sqlite3
+
+# Python Cache (Keeps the repo clean of temporary files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (If you ever run this outside of Docker)
+venv/
+env/
+.venv/
+
+# OS Generated Files (Hides annoying Mac/Windows system files)
+.DS_Store
+Thumbs.db
